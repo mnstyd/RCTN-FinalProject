@@ -1,0 +1,29 @@
+
+> finalproject@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  54.93 KB  build/static/js/2.c4bfbdac.chunk.js
+  23.54 KB  build/static/css/2.818011ed.chunk.css
+  1.63 KB   build/static/js/3.eebc9fb5.chunk.js
+  1.27 KB   build/static/js/main.a7656610.chunk.js
+  1.18 KB   build/static/js/runtime-main.322f7db5.js
+  356 B     build/static/css/main.8cc29459.chunk.css
+
+The project was built assuming it is hosted at /rctn-050-fp-inta/.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+npm run build >> log.txt
+(node:2991) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at /Users/dewintamaharani/Documents/Hacktive8/finalproject/node_modules/postcss-safe-parser/node_modules/postcss/package.json.
+Update this package.json to use a subpath pattern like "./*".
+(Use `node --trace-deprecation ...` to show where the warning was created)
